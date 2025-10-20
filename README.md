@@ -14,7 +14,6 @@ A Streamlit app that lets you **chat with a database**: choose a local **SQLite*
 ![](Screenshots/5.png)
 ![](Screenshots/6.png)
 
-> Put images in a top-level `screenshots/` folder (use simple names like above).
 
 ---
 
@@ -65,4 +64,5 @@ A Streamlit app that lets you **chat with a database**: choose a local **SQLite*
 
 ## License
 MIT
+
 
