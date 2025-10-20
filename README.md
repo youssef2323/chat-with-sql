@@ -1,7 +1,7 @@
 # Chat with SQL DB (Streamlit + LangChain SQL Agent + Groq)
 
 ## Overview
-A Streamlit app that lets you **chat with a database**: choose a local **SQLite** file (`student.db`) or connect to your own **MySQL** instance. Natural-language questions are translated into SQL by a **LangChain SQL Agent** powered by **Groq** (`llama-3.3-70b-versatile`) and results are shown in the chat. Enter your Groq API key in the sidebar (`gsk_…`) and start querying. :contentReference[oaicite:0]{index=0}
+A Streamlit app that lets you **chat with a database**: choose a local **SQLite** file (`student.db`) or connect to your own **MySQL** instance. Natural-language questions are translated into SQL by a **LangChain SQL Agent** powered by **Groq** (`llama-3.3-70b-versatile`) and results are shown in the chat. Enter your Groq API key in the sidebar (`gsk_…`) and start querying.
 
 ---
 
@@ -64,5 +64,6 @@ A Streamlit app that lets you **chat with a database**: choose a local **SQLite*
 
 ## License
 MIT
+
 
 
